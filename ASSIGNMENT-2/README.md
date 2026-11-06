@@ -1,12 +1,9 @@
-#DSA0109 – Assignment 2 (CO2)
-
-##Student Details
+# DSA0109 Assignment 1
+## Intelligent Metro Smart-Card Fare System
 
 **Name:** G. Umesh Chandra Yadav 
 **Register Number:** 192525424
-**Course:** Data Structures and Algorithms
-**Assignment:** Assignment 2 – CO2
-**Programming Language:** C++
+**Language:** C++
 
 **About the Assignment**
 
