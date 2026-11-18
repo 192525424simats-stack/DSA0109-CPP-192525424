@@ -1,6 +1,10 @@
- ## ASSIGNMENT 3 – CO3
+## ASSIGNMENT 3 – CO3
 
 ## Title: C++ Programming Using Constructors, Destructors and Operator Overloading
+
+**Name:** G. Umesh Chandra Yadav 
+**Register Number:** 192525424
+**Language:** C++
 
 **Course Outcome (CO3):**
 Construct C++ programs using constructors, destructors and operator overloading to control object creation, destruction and operator behaviour.
